@@ -1,4 +1,5 @@
 # real-world-vue
+Just me faffing around, trying to wrap my head around Vue.js
 
 ## Project setup
 ```
